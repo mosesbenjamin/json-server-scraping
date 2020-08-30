@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john@gmail.com",
+      "age": "34",
+      "companyId": "1"
+    },
+    {
+      "lastname": "Lewis",
+      "id": "3",
+      "companyId": "2"
+    },
+    {
+      "firstname": "Moses",
+      "lastname": "Sunday",
+      "email": "test@test.com",
+      "age": "20",
+      "companyid": "3",
+      "id": "QRrDA10"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple description"
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Microsoft description"
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Google description"
+    }
+  ]
+}
